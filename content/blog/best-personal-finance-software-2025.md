@@ -35,7 +35,7 @@ keywords:
   - Quicken alternatives
   - budget planning software
   - financial management apps 2025
-canonicalURL: "https://walletdash.ca/posts/best-personal-finance-software"
+canonicalURL: "https://walletdash.ca/blog/best-personal-finance-software"
 metaRobots: "index, follow"
 showReadingTime: true
 showShareButtons: true
