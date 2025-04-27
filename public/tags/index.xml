@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Wallet Dash</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Wallet Dash</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Apr 2025 09:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Budgeting Apps</title>
+      <link>http://localhost:1313/tags/budgeting-apps/</link>
+      <pubDate>Sun, 27 Apr 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/budgeting-apps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial Planning</title>
+      <link>http://localhost:1313/tags/financial-planning/</link>
+      <pubDate>Sun, 27 Apr 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/financial-planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GnuCash</title>
+      <link>http://localhost:1313/tags/gnucash/</link>
+      <pubDate>Sun, 27 Apr 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/gnucash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mint</title>
+      <link>http://localhost:1313/tags/mint/</link>
+      <pubDate>Sun, 27 Apr 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/mint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Money Management Tools</title>
+      <link>http://localhost:1313/tags/money-management-tools/</link>
+      <pubDate>Sun, 27 Apr 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/money-management-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Capital</title>
+      <link>http://localhost:1313/tags/personal-capital/</link>
+      <pubDate>Sun, 27 Apr 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/personal-capital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Finance Software</title>
+      <link>http://localhost:1313/tags/personal-finance-software/</link>
+      <pubDate>Sun, 27 Apr 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/personal-finance-software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quicken</title>
+      <link>http://localhost:1313/tags/quicken/</link>
+      <pubDate>Sun, 27 Apr 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/quicken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YNAB</title>
+      <link>http://localhost:1313/tags/ynab/</link>
+      <pubDate>Sun, 27 Apr 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/ynab/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
