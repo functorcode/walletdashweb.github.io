@@ -2,9 +2,11 @@ baseURL = 'https://walletdash.ca/'
 languageCode = 'en-us'
 title = 'Wallet Dash'
 theme = "paper"
+googleAnalytics = "G-ZEHKG27J9P"
+
 
 [permalinks]
   blog = "/blog/:slug/"
-  
+
 [markup.goldmark.renderer]
 unsafe = true
